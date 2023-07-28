@@ -5,7 +5,7 @@ Ideia do projeto: https://www.figma.com/community/file/1258418121860696031/P%C3%
 Rocketseat: https://www.rocketseat.com.br/
 GitHub da Rocketseat: https://github.com/rocketseat-education
 
--------
+------------
 
 This is a rocketseat challenge of the week project!
 
